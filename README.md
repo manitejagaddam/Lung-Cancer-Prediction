@@ -51,3 +51,9 @@ This repository contains a Streamlit-based web application for predicting lung c
   ```bash
   streamlit run app.py
   ```
+
+# Project Images :
+![Screenshot 2024-12-24 141051](https://github.com/user-attachments/assets/415f6d63-b656-4ca4-9228-ec4e6e095da7)
+
+![image](https://github.com/user-attachments/assets/18bb742a-af20-4c84-8e31-cfdb91db6ac4)
+
